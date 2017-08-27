@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImadApp</string>
+    <string name="button_text">Click Me</string>
+    <string name="to">to</string>
+    <string name="subject">subject</string>
+    <string name="message">message</string>
+    <string name="send">send</string>
+    <string name="enter_txt">enter txt</string>
+</resources>
